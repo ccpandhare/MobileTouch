@@ -1,0 +1,29 @@
+{
+  "name": "mobile-touch",
+  "version": "1.0.0",
+  "description": "A JavaScript Framework for App like touch experience on Mobile Browsers",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccpandhare/MobileTouch.git"
+  },
+  "keywords": [
+    "touch",
+    "mobile",
+    "UI"
+  ],
+  "author": "Chinmay Pandhare",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ccpandhare/MobileTouch/issues"
+  },
+  "homepage": "https://github.com/ccpandhare/MobileTouch#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "matchdep": "^1.0.1"
+  }
+}
